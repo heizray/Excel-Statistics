@@ -16,7 +16,7 @@ The analysis involved the use of **Excel** for the statistical analysis, utilizi
 
 # The Analysis
 Statistical techniques? check out here:
-[formulas folder](/Project/)
+[formulas folder](/formula/)
 ### 1. Profitability Comparison : What are Hollywood and Bollywood's financial performance and profitability?
 
 
