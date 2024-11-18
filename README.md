@@ -68,4 +68,107 @@ Median (8.1): The median rating of 8.1 means that half of the movies in the data
 Mode (8.4): The mode of 8.4 indicates that 8.4 is the most frequent IMDb rating in the dataset. This suggests that many of the movies analyzed received a rating of 8.4, which is a strong rating, reflecting movies that are generally well-received.
 
 # Conclusions 💡
-Both industries are financially successful, but Hollywood maintains a clear edge in scale and global earnings, driven by its larger market and the strength of the USD. Marvel Studios contributes 46% share of Hollywood's revenue, with a remarkable 355% profit margin. Lastly, most films in both industries are well-rated, with an average score of 8.4.
+Both industries are financially successful, but Hollywood maintains a clear edge in scale and global earnings, driven by its larger market and the strength of the USD. Marvel Studios contributes 46% share of Hollywood's revenue, with a remarkable 355% profit margin. Lastly, most films in both industries are well-rated, with an average score of 8.4. 
+
+# ⬇️🔰
+# THIS IS ANOTHER SECTION
+# Topic: Assessing  the Variability of Averge Income of Persons in Uganda and France using Variance and Standard Deviation.
+
+- **Variance**: Measure the spread or dispersion of a set of values; how much the values in a data set differ from the mean (average).
+- **Standard Deviation**: The standard deviation is the square root of the variance.
+
+![](/assets/variance.jpg)
+ 
+Where:
+
+-  𝑥𝑖 represents each individual value in the data set.
+  - 𝑁 total data points. 
+  
+### Datasets Provided below:
+## Uganda Dataset
+
+
+
+| Name     | Yearly Income ($) | Income - Mean  | Squared |
+|----------|-------------------|-------------------|---------|
+| Nishith  | 71                | 9                 | 81      |
+| Veeral   | 62                | 0                 | 0       |
+| Angelina | 66                | 4                 | 16      |
+| Salma    | 61                | -1                | 1       |
+| Nitin    | 54                | -8                | 64      |
+| Dhaval   | 67                | 5                 | 25      |
+| Venkat   | 55                | -7                | 49      |
+| Priya    | 60                | -2                | 4       |
+- **Uganda (Average) Mean** = **62**
+
+*Table 1: Here’s the Uganda Income Levels data presented in a structured, tubular form.*
+#
+![](/assets/stdDev.jpg)
+```
+
+Total = 240
+Count =	8
+Variance = 30
+Standard Deviation = 5.5
+
+```
+
+
+
+
+
+
+## France Dataset
+| Name     | Yearly Income ($) | Income - Mean  | Squared |
+|----------|-------------------|-------------------|---------|
+| Mohan    | 99                | 37                | 1369    |
+| Rita     | 14                | -48               | 2304    |
+| Bhavin   | 75                | 13                | 169     |
+| Michael  | 84                | 22                | 484     |
+| Abdul    | 44                | -18               | 324     |
+| Kiran    | 54                | -8                | 64      |
+| Ahmed    | 98                | 36                | 1296    |
+| Gayatri  | 28                | -34               | 1156    |
+- **France (Average) Mean** = **62**
+
+*Table 2 : Here’s the France Income Levels data presented in a structured, tubular form*
+
+
+
+
+```
+Total = 7166
+Count = 8
+Variance = 895.75
+Standard Deviation = 29.9
+```
+
+# Conclusions 💡
+
+### Uganda Income Levels
+- *Mean Income*: $62,000
+- *Variance*: 30
+- *Standard Deviation*: 5.5
+  - The standard deviation is relatively low, meaning income levels in Uganda are tightly grouped around the mean ($62,000). There's less variability among individual's incomes.
+
+### France Income Levels
+- *Mean Income*: $62,000
+- *Variance*: 895.75
+- *Standard Deviation*: 29.9
+  - The standard deviation is much higher than Uganda's, indicating a wider spread in income levels in France. Some individuals earn significantly more or less than the mean income.
+
+### Insights:
+1. *Income Variability*:
+   - Uganda's income levels are more consistent and show less disparity.
+   - France's income levels exhibit a higher degree of variation, suggesting significant income inequality or diverse earning potential.
+
+2. *Economic Implications*:
+   - Uganda may have a more uniform distribution of income, possibly due to limited economic diversity.
+   - France's larger standard deviation may reflect a diverse economy with varying income levels across different professions or regions.
+
+3. *Comparison*:
+   - While both datasets share the same mean, the higher variance and standard deviation in France suggest a more heterogeneous income distribution compared to Uganda.
+
+
+
+ 
