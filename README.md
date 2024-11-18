@@ -16,7 +16,7 @@ The analysis involved the use of **Excel** for the statistical analysis, utilizi
 
 # The Analysis
 Statistical techniques? check out here:
-[formulas folder](/Project/)
+[formula folder](/formula/)
 ### 1. Profitability Comparison : What are Hollywood and Bollywood's financial performance and profitability?
 
 
@@ -51,7 +51,7 @@ currency exchange rates play a crucial role in understanding the relative financ
 
 Marvel Studios holds a significant **49% market share** in Hollywood, generating **$9,054.60 million** in revenue. This is based on a total Hollywood revenue of **$18,577.90 million**, meaning Marvel Studios production account for nearly half of the total earnings in the Hollywood industry. With a budget of **$1,988.70 million**, Marvel's impressive **355% profit margin** highlights its dominance and profitability in the film market. This market share underscores Marvel's substantial influence, driving a large portion of Hollywood's overall revenue.
 
-### 3. How do IMDb ratings correlate with the financial performance of movies in Hollywood and Bollywood?
+### 3. How do IMDb ratings reflect the performance of movies in Hollywood and Bollywood?
 
 | **Metric** | **Value** |  
 |------------|-----------|  
