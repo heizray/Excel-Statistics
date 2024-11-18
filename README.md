@@ -6,7 +6,7 @@ Driven by the goal of understanding global film industry dynamics and income ine
 
 1. What are Hollywood and Bollywood's financial performance and profitability?
 
-2. What's the market share of Marvel Studios Production based on Hollywood?j
+2. What's the market share of Marvel Studios Production based on Hollywood?
 
 3. How do IMDb ratings reflect the performance of movies in Hollywood and Bollywood?
 
